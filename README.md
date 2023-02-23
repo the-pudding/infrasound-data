@@ -41,4 +41,3 @@ After cloning the git repo:
 ## Data notes
 
 *Add important caveats, limitations, and source contact info here.*
-# infrasound-data

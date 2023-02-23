@@ -1,4 +1,4 @@
-# sky-is-falling
+# infrasound-data
 
 TK: short project description
 

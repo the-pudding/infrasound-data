@@ -1,6 +1,6 @@
 # infrasound-data
 
-Exploring the use of low frequenciy sounds in horror films and horror film soundtracks
+Exploring the use of low frequency sounds in horror films and horror film soundtracks
 
 ## Project goal
 

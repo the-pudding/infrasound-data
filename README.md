@@ -14,7 +14,7 @@ Susan Merriam and Jan Diehm
 
 ### Process
 
-* [2023_infrasound_project_process.ipynb](analysis/notebooks/2023_infrasound_project_process.ipynb) summarizes the different techniques used to download tracks from youtube, convert mp3s to wav files, isolate the tracks below 20Hz, and initial plotting
+* [2023_infrasound_project_process.ipynb](analysis/notebooks/2023_infrasound_project_process.ipynb) summarizes the different techniques used to download tracks from youtube, convert mp3s to wav files, isolate the tracks below 20Hz, and [initial plotting](viz/plots_02_23_23)
 * [infrasound-scratchpad.ipynb](analysis/notebooks/infrasound-scratchpad.ipynb) explores using different packages to import, filter, and visualize sounds including [Spectrum](https://pypi.org/project/spectrum/), [Scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.spectrogram.html), [AudioSegment](https://audiosegment.readthedocs.io/en/latest/audiosegment.html), [pytube](https://pytube.io/en/latest/)
 
 
